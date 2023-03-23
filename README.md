@@ -1,5 +1,25 @@
 # Pandas1
 
+Jupyter Books setup
+
+Jupyter Books is required in order to visualize the data on a table, rather than being printed as regular strings
+
+Jupyter Books installation:https://jupyter.org/install
+Jupyter Documenation: https://docs.jupyter.org/en/latest/
+
+Once installed,
+
+use
+```
+jupyter notebook
+```
+
+this will open a new page in your web browser as localhost
+
+
+
+
+
 1. Clone this repository 
 
 ```
