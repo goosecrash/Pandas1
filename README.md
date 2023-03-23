@@ -1,7 +1,5 @@
 # Pandas1
-learn pandas
+1. installing Pandas
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+pip install pandas
 ```
